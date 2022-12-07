@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 h1 {
-  @apply text-6xl font-extrabold font-sans text-white hover:text-blue-100 hover:scale-[1.01] duration-300 cursor-pointer;
+  @apply text-6xl font-extrabold font-sans text-blue-100 hover:text-white hover:scale-[1.01] duration-500 cursor-pointer;
 }
